@@ -36,7 +36,7 @@ h3 {
     font-style:normal;
     font-weight:bolt;
     font-family:brush script mt;
-    line-height:6px;
+    line-height:3px;
 }
 h4 {
     color: #000000;
@@ -170,7 +170,7 @@ transform: translateX(-50%);
     border:1px solid;
     background-color:#000000;
     position:absolute;
-    bottom:-20px;
+    bottom:-30px;
 }
 .footer p {
     color: #fff;
