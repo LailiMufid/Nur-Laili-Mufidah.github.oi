@@ -81,6 +81,7 @@ h5 {
     min-height:1250px;
     border:1px solid;
     background-color:#f5f5f5;
+    padding-bottom:60px;
 }
 .left-content {
     width:70%;
@@ -170,7 +171,8 @@ transform: translateX(-50%);
     border:1px solid;
     background-color:#000000;
     position:absolute;
-    bottom:800;
+    bottom:0;
+    width:100%;
 }
 .footer p {
     color: #fff;
