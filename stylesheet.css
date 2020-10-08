@@ -169,8 +169,8 @@ transform: translateX(-50%);
     height:40px;
     border:1px solid;
     background-color:#000000;
-    position:absolute;
-    bottom:0;
+    position:relative;
+    bottom:800;
 }
 .footer p {
     color: #fff;
